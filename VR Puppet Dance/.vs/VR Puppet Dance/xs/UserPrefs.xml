@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{452F2A23-E662-5E74-1E80-08BA056447D4}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GestureDetection.cs">
+    <Files>
+      <File FileName="Assets/GestureDetection.cs" Line="66" Column="91" />
+      <File FileName="Assets/SaveHandGestures.cs" Line="27" Column="67" />
+      <File FileName="Assets/SwitchPlayMode.cs" Line="23" Column="76" />
+      <File FileName="Assets/DwarfAnim.cs" Line="33" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="VR Puppet Dance" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
